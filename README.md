@@ -1,5 +1,5 @@
-# {TODO-project-name}
-<!-- _A tag line_ -->
+# Phenomenon
+_Small library for test functions_
 
 ## Table of contents
 
@@ -9,6 +9,7 @@
 
 ## Introduction
 
+A small library containing some useful functions for software testing =).
 
 ## Contributions
 

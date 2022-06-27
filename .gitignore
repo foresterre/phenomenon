@@ -1,6 +1,6 @@
 # Rust
 /target
-/Cargo.lock # remove line if crate has 'bin' package
+Cargo.lock
 
 # Jetbrains IDE's
 .idea/
