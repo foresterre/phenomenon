@@ -1,19 +1,20 @@
 [package]
 name = "phenomenon"
-version = "0.0.0"
+version = "1.0.0"
 edition = "2018"
 
 authors = ["Martijn Gribnau <garm@ilumeo.com>"]
 description = "Functions for software testing =)"
-license = "Apache-2.0 WITH LLVM-exception"
+license = "Apache-2.0 OR MIT"
 repository = "https://github.com/foresterre/phenomenon"
-
-# rust-version = ""
-# OR if MSRV < 1.56
-#[package.metadata]
-#msrv = ""
 
 keywords = ["test", "tests", "contains", "least", "order"]
 categories = ["development-tools::testing"]
 
+[package.metadata]
+msrv = "1.42"
+
 [dependencies]
+
+[dev-dependencies]
+yare = "1.0.1"
