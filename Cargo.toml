@@ -17,4 +17,4 @@ msrv = "1.42"
 [dependencies]
 
 [dev-dependencies]
-yare = "1.0.1"
+yare = "2.0.0"
